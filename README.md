@@ -1,5 +1,5 @@
 # newsApp
-![image](https://github.com/HoRay86/newsApp/blob/ray/dev/done-newsApp.gif)
+![image](https://github.com/HoRay86/newsApp/blob/ray/dev/done-newsApp.gif =100x150)
 
 ### Clean Build
 Android clean build
