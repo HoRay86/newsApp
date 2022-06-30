@@ -1,4 +1,5 @@
 # newsApp
+![image](https://github.com/HoRay86/newsApp/blob/ray/dev/done-newsApp.gif)
 
 ### Clean Build
 Android clean build
