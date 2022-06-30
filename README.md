@@ -1,6 +1,5 @@
 # newsApp
 
-## Command line shoutcuts
 ### Clean Build
 Android clean build
 ```bash
